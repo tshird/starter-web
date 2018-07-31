@@ -14,3 +14,7 @@ As stated above, the main purpose is to provide examples for Git training.
 This is a sumple web project, deployment can be on any web server or local file system.
 
 ## How To Contribute
+
+### Copyright
+
+2018 Terance Shird
