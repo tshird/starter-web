@@ -15,6 +15,8 @@ This is a sumple web project, deployment can be on any web server or local file 
 
 ## How To Contribute
 
+Please fork this repository then issue Pull Requests for review.
+
 ### Copyright
 
 2018 Terance Shird
