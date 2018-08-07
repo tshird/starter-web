@@ -1,7 +1,7 @@
 # Starter Web Project
 
 This repository is for showing how Git and GitHub work. 
-Adding a line for rebasing example.
+Adding a line for rebasing example, more changes from my feature barnch too!
 
 ## Introduction
 
